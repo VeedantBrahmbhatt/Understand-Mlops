@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/veedantbrahmbhatt/Pycharm/py/UnderstandMlops/Project_A/mlruns/0/cd6217ca2cf148c8b26403e52cca7189/artifacts
+end_time: 1703764684491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd6217ca2cf148c8b26403e52cca7189
+run_name: useful-cub-130
+run_uuid: cd6217ca2cf148c8b26403e52cca7189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703764679011
+status: 3
+tags: []
+user_id: veedantbrahmbhatt

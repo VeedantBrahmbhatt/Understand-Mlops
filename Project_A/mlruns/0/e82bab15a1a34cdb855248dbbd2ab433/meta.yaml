@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/veedantbrahmbhatt/Pycharm/py/UnderstandMlops/Project_A/mlruns/0/e82bab15a1a34cdb855248dbbd2ab433/artifacts
+end_time: 1703764687447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e82bab15a1a34cdb855248dbbd2ab433
+run_name: enthused-panda-803
+run_uuid: e82bab15a1a34cdb855248dbbd2ab433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703764685145
+status: 3
+tags: []
+user_id: veedantbrahmbhatt
